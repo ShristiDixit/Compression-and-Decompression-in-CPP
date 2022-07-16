@@ -1,1 +1,1 @@
-# Compression-and-Decompression-in-CPP
+# Compression-and-Decompression-in-CPP using huffman coding technique
